@@ -1,0 +1,47 @@
+.break_1 {
+  padding-top: 20px;
+}
+.bread_cumb_background {
+  background-color: #eec2c2;
+  border-radius: 5px;
+}
+.break_2 {
+  padding-top: 10px;
+}
+.break_3 {
+  padding-top: 15px;
+}
+.break_4 {
+  padding-top: 26px;
+}
+.break_5 {
+  padding-top: 50px;
+}
+.bread_cumb_button_padding {
+  text-align: end;
+
+  @media (max-width: 768px) {
+    text-align: start;
+  }
+}
+.bread_cumb_text_mobile {
+  @media (max-width: 768px) {
+    font-size: 12px;
+  }
+}
+.home-card .card-title {
+  color: white;
+}
+.tab_menu_buttons {
+  padding-left: 10px;
+}
+.mobile_view_category_add {
+  @media (min-width: 800px) {
+    display: none;
+  }
+}
+.desktop_view_category_add {
+  @media (max-width: 768px) {
+    display: none;
+  }
+}

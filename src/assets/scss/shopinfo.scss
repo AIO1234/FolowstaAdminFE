@@ -1,0 +1,40 @@
+.day_font {
+  font-size: 12px;
+}
+
+.day_font_1 {
+  font-size: 11.4px;
+}
+.extra_small_break {
+  padding-top: 5px;
+}
+.extra_small_break1 {
+  padding-top: 14px;
+}
+.services_offered_input {
+  //   padding-right: 80px;
+  @media (max-width: 768px) {
+    padding-right: 0px;
+  }
+}
+.services_offered_input1 {
+  //   padding-left: 80px;
+}
+.services_offered_text {
+  padding-left: 15px;
+  padding-top: 2px;
+}
+.services_offered_check {
+  padding-top: 10px;
+}
+hr {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  background-color: rgb(51, 48, 48);
+  border: 2;
+  border-top: 4px solid rgba(85, 84, 84, 0.1);
+}
+
+.large_break {
+  padding-top: 280px;
+}
